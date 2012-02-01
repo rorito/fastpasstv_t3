@@ -1,0 +1,8 @@
+v1.1:
+  - Added favourites option
+  - Cleanup
+  - New Fanart
+  - Added sockshare thanks to rogerthis
+
+v1.0:
+  - initial release
